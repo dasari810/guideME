@@ -2,7 +2,7 @@
 
 A place to share resources .
 
-Whenever we start to learn new things many question arise in our mind like :
+Whenever we start to learn new things many questions arise in our mind like :
  
 What are the resources available ?
  
